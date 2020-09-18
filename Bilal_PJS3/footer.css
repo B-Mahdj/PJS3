@@ -1,0 +1,28 @@
+body{
+color: #666;
+    background-color: #fff;
+    font-family: "Open Sans", Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.7em;
+}
+
+#footer{
+background-color : #cf0a2c;
+}
+
+#container{
+width : 80%;
+max-width : 1080px;
+margin : auto; 
+position : relative;
+text-align : left;
+}
+
+strong{
+	font-weight : bold;
+}
+
+div{
+display : block;
+}
