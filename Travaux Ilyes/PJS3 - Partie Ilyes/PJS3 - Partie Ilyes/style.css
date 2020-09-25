@@ -1,0 +1,38 @@
+body{
+    margin:0;
+}
+
+div.BJI {
+    background-color: #EBAE2E;
+    font-family: Roboto;
+}
+
+div.TitreBJI p{
+    color : white;
+    text-align : center;
+    font-size : 40px;
+    padding-top:50px;
+    padding-bottom:50px;
+    
+}
+
+div.StatBJI {
+    display: flex;
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+    
+}
+
+div.StatBJI div.TexteBJI {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div#TitreBJI{
+    color:white;
+    font-size:60px;
+    font-weight:bold;
+
+}

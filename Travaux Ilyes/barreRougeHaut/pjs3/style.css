@@ -1,0 +1,50 @@
+body {
+    margin-top: -1.02%;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 0px;
+}
+
+nav#barreRougeHaut {
+    background-color: red;
+    padding-top: 0.5%;
+    padding-bottom: 0.01%;
+}
+
+nav#barreRougeHaut ul{    
+    display:flex;
+}
+
+nav#barreRougeHaut li {
+    list-style-type: none;
+    background-position-x: center;
+}
+
+nav#barreRougeHaut li#Texte {
+    margin-left:-10%;
+    
+}
+
+nav#barreRougeHaut a{
+    text-decoration:none;
+    color : white;
+}
+
+nav#barreRougeHaut img#logoTwitter{
+    width:10%;
+}
+
+nav#barreRougeHaut img#logoFacebook {
+    width: 10%;
+    margin-left: -85%;
+}
+
+nav#barreRougeHaut img {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+
+
+
+
