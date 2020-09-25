@@ -1,0 +1,62 @@
+body{
+    margin:0;
+}
+
+a:link
+{
+ text-decoration:none;
+}
+
+div.DIP {
+    background-color: #EBAE2E;
+    font-family: Roboto;
+}
+
+div.TitreDIP p{
+    color : white;
+    text-align : center;
+    font-size : 40px;
+    font-family: sans-serif;
+    padding-top:50px;
+    padding-bottom:50px;
+
+}
+
+div.DescrDIP {
+    display: flex;
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+
+}
+
+div.DescrDIP div.TexteDIP {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div#TitreDIP{
+    color:white;
+    font-size:25px;
+    font-family: sans-serif;
+    font-weight:bold;
+
+}
+
+h3 {
+  color:white;
+  font-size:16px;
+  font-family: sans-serif;
+  font-weight:lighter;
+}
+
+img#logoDUT{
+  color:white;
+  max-width:50px;
+  padding-bottom: 30px;
+}
+
+img#logo{
+  padding-bottom: 30px;
+}
