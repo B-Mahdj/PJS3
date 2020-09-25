@@ -7,3 +7,9 @@ Ce projet a pour but de réaliser une copie du site de l'iut paris descartes (ht
 Nous devons réaliser le site de l'IUT avec uniquement du HTML/CSS et n'avons pas le droit au JavaScript sauf exceptions spéciales. 
 
 Nous avons cependant le droit de proposer une amélioration du site éventuellement. 
+
+
+L'évaluation se fera sous forme d'une présentation orale avec comme support un diaporama. 
+
+
+Date : 11/09/2020 -> 2/09/2020 [4 Semaines] 
