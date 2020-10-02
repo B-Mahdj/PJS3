@@ -1,5 +1,5 @@
 # PJS3
-Dossier pour le projet de PJS3
+Dossier pour la mission 1 du projet de PJS3. 
 
 Author : MAHDJOUBI Bilal | BORGES Ludovic | BERTRAND Baptiste | H’MIDA Eymen | HASSAINE Ilyes | IUT Paris Descartes
 
